@@ -68,8 +68,8 @@ protected $template;
  */
 public function initController( { ...params } )
 {
-        // Do Not Edit This Line
-        parent::initController($request, $response, $logger);
+      // Do Not Edit This Line
+      parent::initController($request, $response, $logger);
 
       // Loading template
       $this->template = new Template;
