@@ -1,4 +1,4 @@
-# ci4 Template view
+# Template view
 
 ### Making it easier to work with templates in codeigniter 4
 
